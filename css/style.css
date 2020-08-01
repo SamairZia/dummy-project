@@ -347,6 +347,11 @@ header{
   display: flex;
   justify-content: center;
 }
+.sticky-header{
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
 .main-navigation{
   width: 100%;
   display: flex;

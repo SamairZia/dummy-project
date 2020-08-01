@@ -94,8 +94,15 @@ $(window).scroll(function () {
   }
 });
 //animate to top 
-$("#goto-top").click(function() {
+$("#goto-top").click(function () {
   $('html, body').animate({
     scrollTop: $("header").offset().top
   }, 0);
+});
+$(window).scroll(function () {
+  if ($(window).scrollTop() > 200) {
+    $('.header-bottom').addClass('sticky-header');
+  } else {
+    $('.header-bottom').removeClass('sticky-header');
+  }
 });
