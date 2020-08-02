@@ -351,6 +351,16 @@ header{
   position: fixed;
   top: 0;
   width: 100%;
+  z-index: 99;
+  animation: movetop 0.5s ease-in-out;
+}
+@keyframes movetop {
+  from {
+    top: -50px;
+  }
+  to {
+    top: 0px;
+  }
 }
 .main-navigation{
   width: 100%;
@@ -688,7 +698,7 @@ header{
 .product-slider-single-wrap{
   position: relative;
   margin-bottom: 25px;
-  padding: 20px 0;
+  padding: 0 0 10px;
   cursor: pointer;
   transition: all 0.3s ease-in-out;
 }
@@ -711,17 +721,21 @@ header{
 }
 .product-slider-single-wrap .single-product-img-wrap{
   max-height: 350px;
-  height: 350px;
+  height: 300px;
   display: flex;
   align-items: center;
   justify-content: center;
 }
 .single-product-img-wrap img{
   width: auto !important;
+  max-height: inherit;
 }
 .product-slider-single-wrap .sp-actions{
   text-align: center;
   transform: scale(0);
+  position: absolute;
+  top: 40%;
+  width: 100%;
   transition: all 0.3s ease-in-out;
 }
 .product-slider-single-wrap:hover .sp-actions{
@@ -733,10 +747,12 @@ header{
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  border: 1px solid #222;
+  border: 1px solid #fff;
   color: #222;
   border-radius: 50%;
   margin-right: 5px;
+  background: #fff;
+  box-shadow: 2px 2px 4px #000;
   transition: all 0.3s ease-in-out;
 }
 .sp-actions i{
@@ -744,7 +760,7 @@ header{
 }
 .sp-actions a:hover{
   background: #e7487f;
-  border: 1px solid #fff;
+  border: 1px solid #e7487f;
   color: #fff;
 }
 .product-slider-single-wrap .single-product-desc{
@@ -763,11 +779,11 @@ header{
 }
 .single-product-desc .sp-pname{
   color: #222;
-  font-size: 18px;
+  font-size: 16px;
   display: block;
   line-height: 1.2;
-  font-family: 'FuturaPTMedium';
-  margin: 10px 0;
+  /* font-family: 'FuturaPTMedium'; */
+  margin: 5px 0;
   transition: all 0.3s ease-in-out;
 }
 .single-product-desc .sp-pname:hover{
@@ -780,14 +796,22 @@ header{
 }
 .single-product-desc .sp-price{
   color: #222;
-  font-size: 16px;
+  font-size: 14px;
   display: block;
   line-height: 1.2;
   font-family: 'FuturaPTBold';
-  margin: 10px 0;
+  margin: 0 0 2px;
 }
 .sp-price span{
 
+}
+.single-product-desc .old-price{
+  color: #222;
+  font-size: 13px;
+  display: block;
+  line-height: 1.2;
+  margin: 5px 0;
+  text-decoration: line-through;
 }
 .single-product-desc .sp-reviews{
   

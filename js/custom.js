@@ -100,7 +100,7 @@ $("#goto-top").click(function () {
   }, 0);
 });
 $(window).scroll(function () {
-  if ($(window).scrollTop() > 200) {
+  if ($(window).scrollTop() > 190) {
     $('.header-bottom').addClass('sticky-header');
   } else {
     $('.header-bottom').removeClass('sticky-header');
