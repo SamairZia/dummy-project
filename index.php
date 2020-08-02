@@ -23,26 +23,30 @@
 </section>
 
 <section class="index-sec-2">
-  <div class="index-2-images-wrap">
-    <div class="index-2-single-img-wrap">
-      <a href="#!"><img src="images/sec2-img1.jpg" class="img-fluid" alt=""></a>
-    </div>
-    <div class="index-2-single-img-wrap index-2-single-img-wrap-center">
-      <a href="#!"><img src="images/sec2-img2.jpg" class="img-fluid" alt=""></a>
-    </div>
-    <div class="index-2-single-img-wrap">
-      <a href="#!"><img src="images/sec2-img3.jpg" class="img-fluid" alt=""></a>
+  <div class="container">
+    <div class="index-2-images-wrap">
+      <div class="index-2-single-img-wrap">
+        <a href="#!"><img src="images/sec2-img1.jpg" class="img-fluid" alt=""></a>
+      </div>
+      <div class="index-2-single-img-wrap index-2-single-img-wrap-center">
+        <a href="#!"><img src="images/sec2-img2.jpg" class="img-fluid" alt=""></a>
+      </div>
+      <div class="index-2-single-img-wrap">
+        <a href="#!"><img src="images/sec2-img3.jpg" class="img-fluid" alt=""></a>
+      </div>
     </div>
   </div>
 </section>
 
 <section class="index-sec-3">
-  <div class="index-3-images-wrap">
-    <div class="index-3-single-img-wrap">
-      <a href="#!"><img src="images/sec3-img1.jpg" class="img-fluid" alt=""></a>
-    </div>
-    <div class="index-3-single-img-wrap">
-      <a href="#!"><img src="images/sec3-img2.jpg" class="img-fluid" alt=""></a>
+  <div class="container">
+    <div class="index-3-images-wrap">
+      <div class="index-3-single-img-wrap">
+        <a href="#!"><img src="images/sec3-img1.jpg" class="img-fluid" alt=""></a>
+      </div>
+      <div class="index-3-single-img-wrap">
+        <a href="#!"><img src="images/sec3-img2.jpg" class="img-fluid" alt=""></a>
+      </div>
     </div>
   </div>
 </section>
@@ -115,7 +119,7 @@
 
           </div>
         </div>
- 
+
         <div class="item product-slider-item">
           <div class="items-single-row">
 
@@ -1336,67 +1340,77 @@
       <h2><span>Featured on Beautytrenkkorea</span></h2>
       <p>Categories featured</p>
     </div>
-  </div>
-  <div class="featured-images-wrap">
-    <div class="featured-single-img-wrap">
-      <a href="#!"><img src="images/featured-img1.jpg" class="img-fluid" alt=""></a>
+    <div class="featured-images-wrap">
+      <div class="featured-single-img-wrap">
+        <a href="#!"><img src="images/featured-img1.jpg" class="img-fluid" alt=""></a>
+      </div>
+      <div class="featured-single-img-wrap">
+        <a href="#!"><img src="images/featured-img2.jpg" class="img-fluid" alt=""></a>
+      </div>
+      <div class="featured-single-img-wrap">
+        <a href="#!"><img src="images/featured-img3.jpg" class="img-fluid" alt=""></a>
+      </div>
     </div>
-    <div class="featured-single-img-wrap">
-      <a href="#!"><img src="images/featured-img2.jpg" class="img-fluid" alt=""></a>
-    </div>
-    <div class="featured-single-img-wrap">
-      <a href="#!"><img src="images/featured-img3.jpg" class="img-fluid" alt=""></a>
-    </div>
-  </div>
-  <div class="container">
     <div class="end-line"></div>
   </div>
 </section>
 
 <section class="index-sec-9 instagram-section">
   <div class="container">
-    <div class="instagram-heading">
-      <h4>Follow us on instgram @beautytrendkorea</h4>
-    </div>
-    <div class="instagram-slider-wrapper">
-      <div class="owl-carousel owl-theme instagram-slider">
-        <div class="item insta-item">
-          <div class="insta-item-row">
-            <div class="insta-item-single">
-              <a href="#!"><img src="images/insta-img-1.jpg" class="img-fluid" alt=""></a>
-            </div>
-            <div class="insta-item-single">
-              <a href="#!"><img src="images/insta-img-5.jpg" class="img-fluid" alt=""></a>
-            </div>
-          </div>
+    <div class="row">
+      <div class="col-sm-12 col-md-4 col-lg-4">
+        <div class="instagram-heading">
+          <h4>Follow us on Facebook</h4>
         </div>
-        <div class="item insta-item">
-          <div class="insta-item-row">
-            <div class="insta-item-single">
-              <a href="#!"><img src="images/insta-img-2.jpg" class="img-fluid" alt=""></a>
-            </div>
-            <div class="insta-item-single">
-              <a href="#!"><img src="images/insta-img-6.jpg" class="img-fluid" alt=""></a>
-            </div>
-          </div>
+        <div class="fb-widget-wrap">
+          <img src="images/fb-widget.jpg" class="img-fluid" alt="">
         </div>
-        <div class="item insta-item">
-          <div class="insta-item-row">
-            <div class="insta-item-single">
-              <a href="#!"><img src="images/insta-img-3.jpg" class="img-fluid" alt=""></a>
-            </div>
-            <div class="insta-item-single">
-              <a href="#!"><img src="images/insta-img-7.jpg" class="img-fluid" alt=""></a>
-            </div>
-          </div>
+      </div>
+      <div class="col-sm-12 col-md-8 col-lg-8">
+        <div class="instagram-heading">
+          <h4>Follow us on instgram @beautytrendkorea</h4>
         </div>
-        <div class="item insta-item">
-          <div class="insta-item-row">
-            <div class="insta-item-single">
-              <a href="#!"><img src="images/insta-img-4.jpg" class="img-fluid" alt=""></a>
+        <div class="instagram-slider-wrapper">
+          <div class="owl-carousel owl-theme instagram-slider">
+            <div class="item insta-item">
+              <div class="insta-item-row">
+                <div class="insta-item-single">
+                  <a href="#!"><img src="images/insta-img-1.jpg" class="img-fluid" alt=""></a>
+                </div>
+                <div class="insta-item-single">
+                  <a href="#!"><img src="images/insta-img-5.jpg" class="img-fluid" alt=""></a>
+                </div>
+              </div>
             </div>
-            <div class="insta-item-single">
-              <a href="#!"><img src="images/insta-img-8.jpg" class="img-fluid" alt=""></a>
+            <div class="item insta-item">
+              <div class="insta-item-row">
+                <div class="insta-item-single">
+                  <a href="#!"><img src="images/insta-img-2.jpg" class="img-fluid" alt=""></a>
+                </div>
+                <div class="insta-item-single">
+                  <a href="#!"><img src="images/insta-img-6.jpg" class="img-fluid" alt=""></a>
+                </div>
+              </div>
+            </div>
+            <div class="item insta-item">
+              <div class="insta-item-row">
+                <div class="insta-item-single">
+                  <a href="#!"><img src="images/insta-img-3.jpg" class="img-fluid" alt=""></a>
+                </div>
+                <div class="insta-item-single">
+                  <a href="#!"><img src="images/insta-img-7.jpg" class="img-fluid" alt=""></a>
+                </div>
+              </div>
+            </div>
+            <div class="item insta-item">
+              <div class="insta-item-row">
+                <div class="insta-item-single">
+                  <a href="#!"><img src="images/insta-img-4.jpg" class="img-fluid" alt=""></a>
+                </div>
+                <div class="insta-item-single">
+                  <a href="#!"><img src="images/insta-img-8.jpg" class="img-fluid" alt=""></a>
+                </div>
+              </div>
             </div>
           </div>
         </div>
@@ -1409,14 +1423,13 @@
 <section class="index-sec-10">
   <div class="container">
     <div class="row">
-      <div class="col-sm-12 col-md-4 col-lg-4">
-        <div class="fb-widget-wrap">
-          <img src="images/fb-widget.jpg" class="img-fluid" alt="">
-        </div>
-      </div>
-      <div class="col-sm-12 col-md-8 col-lg-8">
+      <div class="col-sm-12 col-md-12 col-lg-12">
         <div class="index-newsletter-wrap">
-          <h2>Newsletter Signup</h2>
+          <div class="newsletter-head">
+            <i class="fas fa-paper-plane"></i>
+            <h2>Signup to Newsletter</h2>
+            <p>and receive Discount coupon for first shopping</p>
+          </div>
           <div class="newsletter-form-wrap">
             <input type="text" placeholder="Enter your Email address">
             <button>Subscribe</button>

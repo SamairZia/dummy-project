@@ -7,16 +7,16 @@
             <a class="foot-logo" href="#!"><img src="images/logo.png" class="img-fluid" alt=""></a>
             <div class="contact-wrap">
               <label>Call (09:00 ~ 18:00, +GMT9)</label>
-              <a href="#!" class="phone-link">070-8860-4678</a>
-              <a href="#!" class="phone-link">+82 10 7475 9078</a>
-              <a href="mailto:sales@beautytrendkorea.com" class="email-link">sales@beautytrendkorea.com</a>
+              <a href="#!" class="phone-link"><img src="images/phone.png" alt="">070-8860-4678</a>
+              <a href="#!" class="phone-link"><img src="images/whatsapp.png" alt="">+82 10 7475 9078</a>
+              <a href="mailto:sales@beautytrendkorea.com" class="email-link"><img src="images/email.png" alt="">sales@beautytrendkorea.com</a>
               <div class="foot-social-wrap">
                 <p>Connect With Us: </p>
                 <ul>
-                  <li><a href="#!"><i class="fab fa-instagram"></i></a></li>
-                  <li><a href="#!"><i class="fab fa-facebook-square"></i></a></li>
-                  <li><a href="#!"><i class="fab fa-twitter"></i></a></li>
-                  <li><a href="#!"><i class="fab fa-whatsapp"></i></a></li>
+                  <li><a href="#!"><img src="images/instagram.png" alt=""></a></li>
+                  <li><a href="#!"><img src="images/fb.jpg" alt=""></a></li>
+                  <li><a href="#!"><img src="images/fb-groups.png" alt=""></a></li>
+                  <li><a href="#!"><img src="images/kakao.png" alt=""></a></li>
                 </ul>
               </div>
             </div>

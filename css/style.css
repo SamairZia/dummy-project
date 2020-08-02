@@ -623,7 +623,7 @@ header{
 /* index sec 3 css ends*/
 /* index sec 4 css starts*/
 .index-sec-4{
-  padding: 50px 0;
+  padding: 20px 0;
 }
 .product-slider-section{
 
@@ -873,7 +873,7 @@ header{
 /* index sec 6 css ends*/
 /* index sec 8 css starts*/
 .index-sec-8{
-  padding: 50px 0;
+  padding: 10px 0;
 }
 .featured-images-wrap{
   display: flex;
@@ -937,12 +937,12 @@ header{
 /* index sec 8 css ends*/
 /* index sec 9 css starts*/
 .index-sec-9{
-  padding: 30px 0;
+  padding: 20px 0;
 }
 .instagram-heading{
 }
 .instagram-heading h4{
-  font-size: 28px;
+  font-size: 24px;
   color: #222222;
   font-family: 'FuturaPTMedium';
   text-transform: uppercase;
@@ -966,37 +966,48 @@ header{
 /* index sec 9 css ends*/
 /* index sec 10 css starts*/
 .index-sec-10{
-  padding: 20px 0;
+  padding: 30px 0;
+  background: #ef4a7f;
 }
 .fb-widget-wrap{
-
+  margin-top: 30px;
 }
 .fb-widget-wrap img{
 
 }
 .index-newsletter-wrap{
-  height: 170px;
-  background: #2c2a2a;
-  padding: 0 85px;
   display: flex;
   flex-wrap: wrap;
-  flex-direction: column;
-  justify-content: center;
+  justify-content: space-between;
+  align-items: center;
 }
-.index-newsletter-wrap h2{
-  font-size: 28px;
+.newsletter-head{
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.newsletter-head h2{
+  font-size: 24px;
   color: #fff;
   font-family: 'FuturaPTMedium';
   text-transform: uppercase;
   line-height: 1.2;
-  letter-spacing: 4px;
-  position: relative;
+}
+.newsletter-head p{
+  color: #fff;
+  font-size: 18px;
+  margin-left: 30px;
+}
+.newsletter-head i{
+  color: #fff;
+  font-size: 24px;
+  margin-right: 10px;
 }
 .newsletter-form-wrap{
-  width: 100%;
+  flex: 1;
   display: flex;
   align-items: center;
-  margin-top: 20px;
+  justify-content: flex-end;
 }
 .newsletter-form-wrap input{
   height: 40px;
@@ -1007,12 +1018,11 @@ header{
   color: #636363;
   font-size: 16px;
   padding: 0 15px;
-  margin-right: 5px;
 }
 .newsletter-form-wrap button{
   width: 160px;
   height: 40px;
-  background: #ef4a7f;
+  background: #000;
   border: none;
   /* font-family: 'FuturaPTMedium'; */
   font-size: 20px;
@@ -1072,7 +1082,7 @@ header{
 /* footer css starts */
 .footer-top{
   background: #fff;
-  padding: 50px 0;
+  padding: 30px 0;
 }
 .foot-left-wrap{
 
@@ -1095,20 +1105,27 @@ header{
   margin-bottom: 5px;
 }
 .contact-wrap .phone-link{
-  display: block;
+  display: flex;
+  align-items: center;
   font-family: 'FuturaPTBold';
-  font-size: 24px;
+  font-size: 22px;
   color: #222;
   transition: all 0.3s ease-in-out;
   line-height: 1.3;
+  margin-bottom: 5px;
 }
 .contact-wrap .phone-link:hover{
   color: #ef4a7f;
 }
+.contact-wrap .phone-link img, .contact-wrap .email-link img{
+  max-width: 25px;
+  margin-right: 5px;
+}
 .contact-wrap .email-link{
   font-family: 'FuturaPTBook';
-  display: block;
-  font-size: 24px;
+  display: flex;
+  align-items: center;
+  font-size: 20px;
   color: #222;
   line-height: 1.3;
   letter-spacing: 1px;
@@ -1141,16 +1158,18 @@ header{
 .foot-social-wrap ul li a{
   color: #000;
   font-size: 22px;
-  margin-right: 15px;
+  margin-right: 7px;
   transition: all 0.3s ease-in-out;
 }
 .foot-social-wrap ul li:nth-last-child(1) a{
   margin-right: 0;
 }
-.foot-social-wrap ul li a i{
+.foot-social-wrap ul li a i, .foot-social-wrap ul li a img{
+  max-width: 25px;
+  border-radius: 3px;
   transition: all 0.3s ease-in-out;
 }
-.foot-social-wrap ul li a:hover i{
+.foot-social-wrap ul li a:hover i, .foot-social-wrap ul li a:hover img{
   transform: scale(1.2);
 }
 .foot-mid-wrap{
@@ -1211,19 +1230,19 @@ header{
   margin: 20px 0;
 }
 .foot-right-imgs img{
-  max-width: 110px;
+  max-width: 70px;
   margin-right: 10px;
 }
 .foot-right-imgs-payment img{
-  width: 200px;
-  margin-bottom: 10px;
+  width: 140px;
+  margin-right: 10px;
 }
 .foot-right-imgs-payment a:nth-last-child(1) img{
   margin-bottom: 0;
 }
 .footer-bottom{
   background: #2c2a2a;
-  padding: 30px 0;
+  padding: 10px 0;
 }
 .footer-bottom p{
   color: #fff;
