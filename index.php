@@ -1422,19 +1422,15 @@
 
 <section class="index-sec-10">
   <div class="container">
-    <div class="row">
-      <div class="col-sm-12 col-md-12 col-lg-12">
-        <div class="index-newsletter-wrap">
-          <div class="newsletter-head">
-            <i class="fas fa-paper-plane"></i>
-            <h2>Signup to Newsletter</h2>
-            <p>and receive Discount coupon for first shopping</p>
-          </div>
-          <div class="newsletter-form-wrap">
-            <input type="text" placeholder="Enter your Email address">
-            <button>Subscribe</button>
-          </div>
-        </div>
+    <div class="index-newsletter-wrap">
+      <div class="newsletter-head">
+        <i class="fas fa-paper-plane"></i>
+        <h2>Signup to Newsletter</h2>
+        <p>and receive Discount coupon for first shopping</p>
+      </div>
+      <div class="newsletter-form-wrap">
+        <input type="text" placeholder="Enter your Email address">
+        <button>Subscribe</button>
       </div>
     </div>
   </div>

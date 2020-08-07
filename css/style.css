@@ -5,38 +5,30 @@ html {
   font-family: FuturaPTLight;
   src: url(../fonts/FuturaPTLight.otf);
 }
-
 @font-face {
   font-family: FuturaPTBook;
   src: url(../fonts/FuturaPTBook.otf);
 }
-
 @font-face {
   font-family: FuturaPTMedium;
   src: url(../fonts/FuturaPTMedium.otf);
 }
-
 @font-face {
   font-family: FuturaPTDemi;
   src: url(../fonts/FuturaPTDemi.otf);
 }
-
 @font-face {
   font-family: FuturaPTHeavy;
   src: url(../fonts/FuturaPTHeavy.otf);
 }
-
 @font-face {
   font-family: FuturaPTBold;
   src: url(../fonts/FuturaPTBold.otf);
 }
-
 @font-face {
   font-family: FuturaPTExtraBold;
   src: url(../fonts/FuturaPTExtraBold.otf);
 }
-
-
 body {
   font-family: 'FuturaPTBook', sans-serif;
   overflow-x: hidden;
@@ -63,10 +55,7 @@ a:hover,a:focus {
 .container {
   max-width: 1500px;
 }
-
-header{
-
-}
+header{}
 .header-top{
   background: #f4f4f4;
   padding: 8px 0;
@@ -1114,12 +1103,16 @@ header{
   line-height: 1.3;
   margin-bottom: 5px;
 }
+.contact-wrap .phone-link:hover img, .contact-wrap .email-link:hover img{
+  transform: scale(1.2);
+}
 .contact-wrap .phone-link:hover{
   color: #ef4a7f;
 }
 .contact-wrap .phone-link img, .contact-wrap .email-link img{
   max-width: 25px;
   margin-right: 5px;
+  transition: all 0.3s ease-in-out;
 }
 .contact-wrap .email-link{
   font-family: 'FuturaPTBook';
@@ -1464,5 +1457,112 @@ header{
   color: #222;
   line-height: 1.5;
 }
-
 /* cart from side css ends */
+/* account page css starts */
+.account-sec-2{
+  padding: 80px 0px;
+  background: #fff;
+}
+.account-form-wrap{
+  background: #f4f4f4;
+  padding: 30px 50px 50px;
+  max-width: 600px;
+  margin: 0 auto;
+  border-radius: 5px;
+  border: 2px solid #e4e9ef;
+}
+.account-form-wrap .account-heading{
+  font-family: 'FuturaPTMedium';
+  font-size: 30px;
+  line-height: 1.2;
+  color: #000;
+  font-weight: 700;
+  text-transform: uppercase;
+  background: #f4f4f4;
+  display: inline-block;
+  /* padding: 7px 10px; */
+  margin-bottom: 20px;
+}
+.account-form-wrap .account-form-body{
+
+}
+.acc-field-wrap{
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  margin-bottom: 20px;
+}
+.acc-field-wrap label{
+  display: block;
+  width: 100%;
+  color: #000;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 1.5;
+  margin-bottom: 7px;
+}
+.acc-field-wrap label span{
+  color: #ff0000;
+}
+.acc-field-wrap input{
+  width: 100%;
+  font-size: 18px;
+  color: #000;
+  height: 45px;
+  padding: 0px 10px;
+  border: 1px solid #bdbdbd;
+  border-radius: 5px;
+  /* box-shadow: 0 0 6px rgba(2,3,3,.1); */
+}
+.acc-check-wrap{
+
+}
+.acc-check-wrap input{
+  margin-right: 5px;
+}
+.acc-check-wrap label{
+  font-size: 18px;
+  color: #000;
+}
+.acc-btn-wrap{
+  margin-top: 30px;
+}
+.acc-btn-wrap button{
+  font-size: 16px;
+  color: #fff;
+  line-height: 1.5;
+  background: #e7487f;
+  display: inline-block;
+  border: none;
+  padding: 10px;
+  max-width: 230px;
+  width: 100%;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+  z-index: 2;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+.acc-btn-wrap button::before {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  background: #000;
+  width: 100%;
+  height: 0;
+  z-index: -1;
+  transition: all 0.3s ease-in-out;
+}
+.acc-btn-wrap button:hover::before {
+  height: 100%;
+}
+.account-form-body .forgot-pass{
+  display: inline-block;
+  margin-top: 10px;
+  color: #000;
+  font-size: 18px;
+}
+/* account page css ends */
