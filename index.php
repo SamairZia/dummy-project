@@ -79,14 +79,7 @@
                 <p class="sp-weight">(Weight: 212g)</p>
                 <h6 class="old-price"><span>($225.8 USD)</span><span>(KRW 12,555)</span></h6>
                 <h5 class="sp-price"><span>($115.4 USD)</span><span>(KRW 6,751)</span></h5>
-                <div class="sp-reviews">
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="far fa-star"></i>
-                  <span>(63 Reviews)</span>
-                </div>
+                
               </div>
             </div>
 
@@ -106,14 +99,7 @@
                 <p class="sp-weight">(Weight: 212g)</p>
                 <h6 class="old-price"><span>($225.8 USD)</span><span>(KRW 12,555)</span></h6>
                 <h5 class="sp-price"><span>($115.4 USD)</span><span>(KRW 6,751)</span></h5>
-                <div class="sp-reviews">
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="far fa-star"></i>
-                  <span>(63 Reviews)</span>
-                </div>
+                
               </div>
             </div>
 
@@ -139,14 +125,7 @@
                 <p class="sp-weight">(Weight: 212g)</p>
                 <h6 class="old-price"><span>($225.8 USD)</span><span>(KRW 12,555)</span></h6>
                 <h5 class="sp-price"><span>($115.4 USD)</span><span>(KRW 6,751)</span></h5>
-                <div class="sp-reviews">
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="far fa-star"></i>
-                  <span>(63 Reviews)</span>
-                </div>
+                
               </div>
             </div>
 
@@ -166,14 +145,7 @@
                 <p class="sp-weight">(Weight: 212g)</p>
                 <h6 class="old-price"><span>($225.8 USD)</span><span>(KRW 12,555)</span></h6>
                 <h5 class="sp-price"><span>($115.4 USD)</span><span>(KRW 6,751)</span></h5>
-                <div class="sp-reviews">
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="far fa-star"></i>
-                  <span>(63 Reviews)</span>
-                </div>
+                
               </div>
             </div>
 
@@ -199,14 +171,7 @@
                 <p class="sp-weight">(Weight: 212g)</p>
                 <h6 class="old-price"><span>($225.8 USD)</span><span>(KRW 12,555)</span></h6>
                 <h5 class="sp-price"><span>($115.4 USD)</span><span>(KRW 6,751)</span></h5>
-                <div class="sp-reviews">
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="far fa-star"></i>
-                  <span>(63 Reviews)</span>
-                </div>
+                
               </div>
             </div>
 
@@ -226,14 +191,7 @@
                 <p class="sp-weight">(Weight: 212g)</p>
                 <h6 class="old-price"><span>($225.8 USD)</span><span>(KRW 12,555)</span></h6>
                 <h5 class="sp-price"><span>($115.4 USD)</span><span>(KRW 6,751)</span></h5>
-                <div class="sp-reviews">
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="far fa-star"></i>
-                  <span>(63 Reviews)</span>
-                </div>
+                
               </div>
             </div>
 
@@ -259,14 +217,7 @@
                 <p class="sp-weight">(Weight: 212g)</p>
                 <h6 class="old-price"><span>($225.8 USD)</span><span>(KRW 12,555)</span></h6>
                 <h5 class="sp-price"><span>($115.4 USD)</span><span>(KRW 6,751)</span></h5>
-                <div class="sp-reviews">
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="far fa-star"></i>
-                  <span>(63 Reviews)</span>
-                </div>
+                
               </div>
             </div>
 
@@ -286,14 +237,7 @@
                 <p class="sp-weight">(Weight: 212g)</p>
                 <h6 class="old-price"><span>($225.8 USD)</span><span>(KRW 12,555)</span></h6>
                 <h5 class="sp-price"><span>($115.4 USD)</span><span>(KRW 6,751)</span></h5>
-                <div class="sp-reviews">
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="far fa-star"></i>
-                  <span>(63 Reviews)</span>
-                </div>
+                
               </div>
             </div>
 
@@ -319,14 +263,7 @@
                 <p class="sp-weight">(Weight: 212g)</p>
                 <h6 class="old-price"><span>($225.8 USD)</span><span>(KRW 12,555)</span></h6>
                 <h5 class="sp-price"><span>($115.4 USD)</span><span>(KRW 6,751)</span></h5>
-                <div class="sp-reviews">
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="far fa-star"></i>
-                  <span>(63 Reviews)</span>
-                </div>
+                
               </div>
             </div>
 
@@ -346,14 +283,7 @@
                 <p class="sp-weight">(Weight: 212g)</p>
                 <h6 class="old-price"><span>($225.8 USD)</span><span>(KRW 12,555)</span></h6>
                 <h5 class="sp-price"><span>($115.4 USD)</span><span>(KRW 6,751)</span></h5>
-                <div class="sp-reviews">
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="far fa-star"></i>
-                  <span>(63 Reviews)</span>
-                </div>
+                
               </div>
             </div>
 
@@ -379,14 +309,7 @@
                 <p class="sp-weight">(Weight: 212g)</p>
                 <h6 class="old-price"><span>($225.8 USD)</span><span>(KRW 12,555)</span></h6>
                 <h5 class="sp-price"><span>($115.4 USD)</span><span>(KRW 6,751)</span></h5>
-                <div class="sp-reviews">
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="far fa-star"></i>
-                  <span>(63 Reviews)</span>
-                </div>
+                
               </div>
             </div>
 
@@ -406,14 +329,7 @@
                 <p class="sp-weight">(Weight: 212g)</p>
                 <h6 class="old-price"><span>($225.8 USD)</span><span>(KRW 12,555)</span></h6>
                 <h5 class="sp-price"><span>($115.4 USD)</span><span>(KRW 6,751)</span></h5>
-                <div class="sp-reviews">
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="far fa-star"></i>
-                  <span>(63 Reviews)</span>
-                </div>
+                
               </div>
             </div>
 
@@ -439,14 +355,7 @@
                 <p class="sp-weight">(Weight: 212g)</p>
                 <h6 class="old-price"><span>($225.8 USD)</span><span>(KRW 12,555)</span></h6>
                 <h5 class="sp-price"><span>($115.4 USD)</span><span>(KRW 6,751)</span></h5>
-                <div class="sp-reviews">
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="far fa-star"></i>
-                  <span>(63 Reviews)</span>
-                </div>
+                
               </div>
             </div>
 
@@ -466,14 +375,7 @@
                 <p class="sp-weight">(Weight: 212g)</p>
                 <h6 class="old-price"><span>($225.8 USD)</span><span>(KRW 12,555)</span></h6>
                 <h5 class="sp-price"><span>($115.4 USD)</span><span>(KRW 6,751)</span></h5>
-                <div class="sp-reviews">
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="far fa-star"></i>
-                  <span>(63 Reviews)</span>
-                </div>
+                
               </div>
             </div>
 
@@ -512,14 +414,7 @@
                 <a href="#!" class="sp-pname">ETUDE HOUSE – Soonjung 2x Barrier Intensive Cream 60ml</a>
                 <p class="sp-weight">(Weight: 212g)</p>
                 <h5 class="sp-price"><span>($115.4 USD)</span><span>(KRW 6,751)</span></h5>
-                <div class="sp-reviews">
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="far fa-star"></i>
-                  <span>(63 Reviews)</span>
-                </div>
+                
               </div>
             </div>
 
@@ -538,14 +433,7 @@
                 <a href="#!" class="sp-pname">THE FACE SHOP - Styling Eye Palette No.2 Fatal Burgundy</a>
                 <p class="sp-weight">(Weight: 212g)</p>
                 <h5 class="sp-price"><span>($115.4 USD)</span><span>(KRW 6,751)</span></h5>
-                <div class="sp-reviews">
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="far fa-star"></i>
-                  <span>(63 Reviews)</span>
-                </div>
+                
               </div>
             </div>
 
@@ -570,14 +458,7 @@
                 <a href="#!" class="sp-pname">THE FACE SHOP - Styling Eye Palette No.2 Fatal Burgundy</a>
                 <p class="sp-weight">(Weight: 212g)</p>
                 <h5 class="sp-price"><span>($115.4 USD)</span><span>(KRW 6,751)</span></h5>
-                <div class="sp-reviews">
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="far fa-star"></i>
-                  <span>(63 Reviews)</span>
-                </div>
+                
               </div>
             </div>
 
@@ -596,14 +477,7 @@
                 <a href="#!" class="sp-pname">ETUDE HOUSE – Soonjung 2x Barrier Intensive Cream 60ml</a>
                 <p class="sp-weight">(Weight: 212g)</p>
                 <h5 class="sp-price"><span>($115.4 USD)</span><span>(KRW 6,751)</span></h5>
-                <div class="sp-reviews">
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="far fa-star"></i>
-                  <span>(63 Reviews)</span>
-                </div>
+                
               </div>
             </div>
 
@@ -628,14 +502,7 @@
                 <a href="#!" class="sp-pname">ETUDE HOUSE – Soonjung 2x Barrier Intensive Cream 60ml</a>
                 <p class="sp-weight">(Weight: 212g)</p>
                 <h5 class="sp-price"><span>($115.4 USD)</span><span>(KRW 6,751)</span></h5>
-                <div class="sp-reviews">
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="far fa-star"></i>
-                  <span>(63 Reviews)</span>
-                </div>
+                
               </div>
             </div>
 
@@ -654,14 +521,7 @@
                 <a href="#!" class="sp-pname">THE FACE SHOP - Styling Eye Palette No.2 Fatal Burgundy</a>
                 <p class="sp-weight">(Weight: 212g)</p>
                 <h5 class="sp-price"><span>($115.4 USD)</span><span>(KRW 6,751)</span></h5>
-                <div class="sp-reviews">
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="far fa-star"></i>
-                  <span>(63 Reviews)</span>
-                </div>
+                
               </div>
             </div>
 
@@ -686,14 +546,7 @@
                 <a href="#!" class="sp-pname">THE FACE SHOP - Styling Eye Palette No.2 Fatal Burgundy</a>
                 <p class="sp-weight">(Weight: 212g)</p>
                 <h5 class="sp-price"><span>($115.4 USD)</span><span>(KRW 6,751)</span></h5>
-                <div class="sp-reviews">
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="far fa-star"></i>
-                  <span>(63 Reviews)</span>
-                </div>
+                
               </div>
             </div>
 
@@ -712,14 +565,7 @@
                 <a href="#!" class="sp-pname">ETUDE HOUSE – Soonjung 2x Barrier Intensive Cream 60ml</a>
                 <p class="sp-weight">(Weight: 212g)</p>
                 <h5 class="sp-price"><span>($115.4 USD)</span><span>(KRW 6,751)</span></h5>
-                <div class="sp-reviews">
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="far fa-star"></i>
-                  <span>(63 Reviews)</span>
-                </div>
+                
               </div>
             </div>
 
@@ -744,14 +590,7 @@
                 <a href="#!" class="sp-pname">ETUDE HOUSE – Soonjung 2x Barrier Intensive Cream 60ml</a>
                 <p class="sp-weight">(Weight: 212g)</p>
                 <h5 class="sp-price"><span>($115.4 USD)</span><span>(KRW 6,751)</span></h5>
-                <div class="sp-reviews">
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="far fa-star"></i>
-                  <span>(63 Reviews)</span>
-                </div>
+                
               </div>
             </div>
 
@@ -770,14 +609,7 @@
                 <a href="#!" class="sp-pname">THE FACE SHOP - Styling Eye Palette No.2 Fatal Burgundy</a>
                 <p class="sp-weight">(Weight: 212g)</p>
                 <h5 class="sp-price"><span>($115.4 USD)</span><span>(KRW 6,751)</span></h5>
-                <div class="sp-reviews">
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="far fa-star"></i>
-                  <span>(63 Reviews)</span>
-                </div>
+                
               </div>
             </div>
 
@@ -802,14 +634,7 @@
                 <a href="#!" class="sp-pname">THE FACE SHOP - Styling Eye Palette No.2 Fatal Burgundy</a>
                 <p class="sp-weight">(Weight: 212g)</p>
                 <h5 class="sp-price"><span>($115.4 USD)</span><span>(KRW 6,751)</span></h5>
-                <div class="sp-reviews">
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="far fa-star"></i>
-                  <span>(63 Reviews)</span>
-                </div>
+                
               </div>
             </div>
 
@@ -828,14 +653,7 @@
                 <a href="#!" class="sp-pname">ETUDE HOUSE – Soonjung 2x Barrier Intensive Cream 60ml</a>
                 <p class="sp-weight">(Weight: 212g)</p>
                 <h5 class="sp-price"><span>($115.4 USD)</span><span>(KRW 6,751)</span></h5>
-                <div class="sp-reviews">
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="far fa-star"></i>
-                  <span>(63 Reviews)</span>
-                </div>
+                
               </div>
             </div>
 
@@ -860,14 +678,7 @@
                 <a href="#!" class="sp-pname">ETUDE HOUSE – Soonjung 2x Barrier Intensive Cream 60ml</a>
                 <p class="sp-weight">(Weight: 212g)</p>
                 <h5 class="sp-price"><span>($115.4 USD)</span><span>(KRW 6,751)</span></h5>
-                <div class="sp-reviews">
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="far fa-star"></i>
-                  <span>(63 Reviews)</span>
-                </div>
+                
               </div>
             </div>
 
@@ -886,14 +697,7 @@
                 <a href="#!" class="sp-pname">THE FACE SHOP - Styling Eye Palette No.2 Fatal Burgundy</a>
                 <p class="sp-weight">(Weight: 212g)</p>
                 <h5 class="sp-price"><span>($115.4 USD)</span><span>(KRW 6,751)</span></h5>
-                <div class="sp-reviews">
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="far fa-star"></i>
-                  <span>(63 Reviews)</span>
-                </div>
+                
               </div>
             </div>
 
@@ -943,14 +747,7 @@
                 <a href="#!" class="sp-pname">ETUDE HOUSE – Soonjung 2x Barrier Intensive Cream 60ml</a>
                 <p class="sp-weight">(Weight: 212g)</p>
                 <h5 class="sp-price"><span>($115.4 USD)</span><span>(KRW 6,751)</span></h5>
-                <div class="sp-reviews">
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="far fa-star"></i>
-                  <span>(63 Reviews)</span>
-                </div>
+                
               </div>
             </div>
 
@@ -969,14 +766,7 @@
                 <a href="#!" class="sp-pname">THE FACE SHOP - Styling Eye Palette No.2 Fatal Burgundy</a>
                 <p class="sp-weight">(Weight: 212g)</p>
                 <h5 class="sp-price"><span>($115.4 USD)</span><span>(KRW 6,751)</span></h5>
-                <div class="sp-reviews">
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="far fa-star"></i>
-                  <span>(63 Reviews)</span>
-                </div>
+                
               </div>
             </div>
 
@@ -1001,14 +791,7 @@
                 <a href="#!" class="sp-pname">THE FACE SHOP - Styling Eye Palette No.2 Fatal Burgundy</a>
                 <p class="sp-weight">(Weight: 212g)</p>
                 <h5 class="sp-price"><span>($115.4 USD)</span><span>(KRW 6,751)</span></h5>
-                <div class="sp-reviews">
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="far fa-star"></i>
-                  <span>(63 Reviews)</span>
-                </div>
+                
               </div>
             </div>
 
@@ -1026,14 +809,7 @@
                 <a href="#!" class="sp-pname">ETUDE HOUSE – Soonjung 2x Barrier Intensive Cream 60ml</a>
                 <p class="sp-weight">(Weight: 212g)</p>
                 <h5 class="sp-price"><span>($115.4 USD)</span><span>(KRW 6,751)</span></h5>
-                <div class="sp-reviews">
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="far fa-star"></i>
-                  <span>(63 Reviews)</span>
-                </div>
+                
               </div>
             </div>
 
@@ -1057,14 +833,7 @@
                 <a href="#!" class="sp-pname">ETUDE HOUSE – Soonjung 2x Barrier Intensive Cream 60ml</a>
                 <p class="sp-weight">(Weight: 212g)</p>
                 <h5 class="sp-price"><span>($115.4 USD)</span><span>(KRW 6,751)</span></h5>
-                <div class="sp-reviews">
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="far fa-star"></i>
-                  <span>(63 Reviews)</span>
-                </div>
+                
               </div>
             </div>
 
@@ -1083,14 +852,7 @@
                 <a href="#!" class="sp-pname">THE FACE SHOP - Styling Eye Palette No.2 Fatal Burgundy</a>
                 <p class="sp-weight">(Weight: 212g)</p>
                 <h5 class="sp-price"><span>($115.4 USD)</span><span>(KRW 6,751)</span></h5>
-                <div class="sp-reviews">
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="far fa-star"></i>
-                  <span>(63 Reviews)</span>
-                </div>
+                
               </div>
             </div>
 
@@ -1115,14 +877,7 @@
                 <a href="#!" class="sp-pname">THE FACE SHOP - Styling Eye Palette No.2 Fatal Burgundy</a>
                 <p class="sp-weight">(Weight: 212g)</p>
                 <h5 class="sp-price"><span>($115.4 USD)</span><span>(KRW 6,751)</span></h5>
-                <div class="sp-reviews">
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="far fa-star"></i>
-                  <span>(63 Reviews)</span>
-                </div>
+                
               </div>
             </div>
 
@@ -1141,14 +896,7 @@
                 <a href="#!" class="sp-pname">ETUDE HOUSE – Soonjung 2x Barrier Intensive Cream 60ml</a>
                 <p class="sp-weight">(Weight: 212g)</p>
                 <h5 class="sp-price"><span>($115.4 USD)</span><span>(KRW 6,751)</span></h5>
-                <div class="sp-reviews">
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="far fa-star"></i>
-                  <span>(63 Reviews)</span>
-                </div>
+                
               </div>
             </div>
 
@@ -1173,14 +921,7 @@
                 <a href="#!" class="sp-pname">ETUDE HOUSE – Soonjung 2x Barrier Intensive Cream 60ml</a>
                 <p class="sp-weight">(Weight: 212g)</p>
                 <h5 class="sp-price"><span>($115.4 USD)</span><span>(KRW 6,751)</span></h5>
-                <div class="sp-reviews">
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="far fa-star"></i>
-                  <span>(63 Reviews)</span>
-                </div>
+                
               </div>
             </div>
 
@@ -1199,14 +940,7 @@
                 <a href="#!" class="sp-pname">THE FACE SHOP - Styling Eye Palette No.2 Fatal Burgundy</a>
                 <p class="sp-weight">(Weight: 212g)</p>
                 <h5 class="sp-price"><span>($115.4 USD)</span><span>(KRW 6,751)</span></h5>
-                <div class="sp-reviews">
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="far fa-star"></i>
-                  <span>(63 Reviews)</span>
-                </div>
+                
               </div>
             </div>
 
@@ -1231,14 +965,7 @@
                 <a href="#!" class="sp-pname">THE FACE SHOP - Styling Eye Palette No.2 Fatal Burgundy</a>
                 <p class="sp-weight">(Weight: 212g)</p>
                 <h5 class="sp-price"><span>($115.4 USD)</span><span>(KRW 6,751)</span></h5>
-                <div class="sp-reviews">
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="far fa-star"></i>
-                  <span>(63 Reviews)</span>
-                </div>
+                
               </div>
             </div>
 
@@ -1257,14 +984,7 @@
                 <a href="#!" class="sp-pname">ETUDE HOUSE – Soonjung 2x Barrier Intensive Cream 60ml</a>
                 <p class="sp-weight">(Weight: 212g)</p>
                 <h5 class="sp-price"><span>($115.4 USD)</span><span>(KRW 6,751)</span></h5>
-                <div class="sp-reviews">
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="far fa-star"></i>
-                  <span>(63 Reviews)</span>
-                </div>
+                
               </div>
             </div>
 
@@ -1289,14 +1009,7 @@
                 <a href="#!" class="sp-pname">ETUDE HOUSE – Soonjung 2x Barrier Intensive Cream 60ml</a>
                 <p class="sp-weight">(Weight: 212g)</p>
                 <h5 class="sp-price"><span>($115.4 USD)</span><span>(KRW 6,751)</span></h5>
-                <div class="sp-reviews">
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="far fa-star"></i>
-                  <span>(63 Reviews)</span>
-                </div>
+                
               </div>
             </div>
 
@@ -1315,14 +1028,7 @@
                 <a href="#!" class="sp-pname">THE FACE SHOP - Styling Eye Palette No.2 Fatal Burgundy</a>
                 <p class="sp-weight">(Weight: 212g)</p>
                 <h5 class="sp-price"><span>($115.4 USD)</span><span>(KRW 6,751)</span></h5>
-                <div class="sp-reviews">
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="fas fa-star"></i>
-                  <i class="far fa-star"></i>
-                  <span>(63 Reviews)</span>
-                </div>
+                
               </div>
             </div>
 
@@ -1419,58 +1125,5 @@
 
   </div>
 </section>
-
-<section class="index-sec-10">
-  <div class="container">
-    <div class="index-newsletter-wrap">
-      <div class="newsletter-head">
-        <i class="fas fa-paper-plane"></i>
-        <h2>Signup to Newsletter</h2>
-        <p>and receive Discount coupon for first shopping</p>
-      </div>
-      <div class="newsletter-form-wrap">
-        <input type="text" placeholder="Enter your Email address">
-        <button>Subscribe</button>
-      </div>
-    </div>
-  </div>
-</section>
-
-<section class="index-sec-11">
-  <div class="container">
-    <div class="product-heading-wrap">
-      <h2><span>Featured Brands</span></h2>
-    </div>
-    <div class="brands-slider-wrapper">
-      <div class="owl-carousel owl-theme brands-slider">
-        <div class="item brand-item">
-          <a href="#!"><img src="images/brand-1.png" class="img-fluid" alt=""></a>
-        </div>
-        <div class="item brand-item">
-          <a href="#!"><img src="images/brand-2.png" class="img-fluid" alt=""></a>
-        </div>
-        <div class="item brand-item">
-          <a href="#!"><img src="images/brand-3.png" class="img-fluid" alt=""></a>
-        </div>
-        <div class="item brand-item">
-          <a href="#!"><img src="images/brand-4.png" class="img-fluid" alt=""></a>
-        </div>
-        <div class="item brand-item">
-          <a href="#!"><img src="images/brand-5.png" class="img-fluid" alt=""></a>
-        </div>
-        <div class="item brand-item">
-          <a href="#!"><img src="images/brand-6.png" class="img-fluid" alt=""></a>
-        </div>
-        <div class="item brand-item">
-          <a href="#!"><img src="images/brand-7.png" class="img-fluid" alt=""></a>
-        </div>
-        <div class="item brand-item">
-          <a href="#!"><img src="images/brand-8.png" class="img-fluid" alt=""></a>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-
 
 <?php include 'inc/footer.php' ?>

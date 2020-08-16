@@ -55,6 +55,37 @@ a:hover,a:focus {
 .container {
   max-width: 1500px;
 }
+.btn-theme{
+  font-size: 16px;
+  color: #fff;
+  line-height: 1.5;
+  background: #e7487f;
+  display: inline-block;
+  padding: 10px;
+  max-width: 230px;
+  width: 100%;
+  border: none;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+  z-index: 2;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+.btn-theme::before {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  background: #000;
+  width: 100%;
+  height: 0;
+  z-index: -1;
+  transition: all 0.3s ease-in-out;
+}
+.btn-theme:hover::before {
+  height: 100%;
+}
 header{}
 .header-top{
   background: #f4f4f4;
@@ -709,7 +740,7 @@ header{}
   justify-content: center;
 }
 .product-slider-single-wrap .single-product-img-wrap{
-  max-height: 350px;
+  max-height: 260px;
   height: 300px;
   display: flex;
   align-items: center;
@@ -754,6 +785,7 @@ header{}
 }
 .product-slider-single-wrap .single-product-desc{
   text-align: center;
+  margin-top: 5px;
 }
 .single-product-desc .sp-brand-name{
   color: #6f6f6f;
@@ -784,7 +816,7 @@ header{}
   margin-bottom: 5px;
 }
 .single-product-desc .sp-price{
-  color: #222;
+  color: #fa0707;
   font-size: 14px;
   display: block;
   line-height: 1.2;
@@ -1566,3 +1598,296 @@ header{}
   font-size: 18px;
 }
 /* account page css ends */
+/* sidebar css starts */
+.side-wrap{
+  background: #f4f4f4;
+}
+.side-wrap .side-wrap-item{
+
+}
+.side-wrap-item .side-wrap-link{
+  display: block;
+  padding: 7px 0 7px 20px;
+  font-size: 18px;
+  color: #000;
+  font-weight: 600;
+  border: 1px solid #eee;
+  line-height: 1.4;
+  transition: all 0.3s ease-in-out;
+}
+.side-wrap-item .side-wrap-link:hover{
+  padding-left: 25px;
+  color: #e7487f;
+}
+/* sidebar css ends */
+/* dashboard css starts */
+.dash-sec-1{
+  padding: 70px 0;
+}
+.dashboard-right-wrapper{
+
+}
+.dashboard-right-wrapper .dash-text{
+  font-family: 'Poppins', sans-serif;
+  color: #000;
+  font-size: 14px;
+}
+.dash-text a{
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  color: #000;
+  line-height: 1.5;
+  margin-bottom: 5px;
+  transition: all 0.1s ease-in-out;
+}
+.dash-text a:hover{
+  text-decoration: underline;
+  color: #e7487f;
+}
+/* edit account page css start*/
+.dashboard-right-wrapper{
+
+}
+.dash-main-heading{
+  color: #000;
+  font-weight: 900;
+  text-transform: uppercase;
+  font-size: 26px;
+  letter-spacing: 1px;
+  margin-bottom: 5px;
+  line-height: 1.2;
+}
+.dash-subheading{
+  font-size: 20px;
+  font-weight: 500;
+  color: #000;
+  line-height: 1.2;
+  letter-spacing: 3px;
+}
+.edit-account-form-wrap{
+
+}
+.edit-account-form-wrap .single-field{
+  margin-bottom: 20px;
+  align-items: baseline;
+}
+.single-field label{
+  font-family: 'Poppins', sans-serif;
+  color: #000;
+  font-size: 14px;
+  font-weight: 600;
+}
+.single-field input{
+  width: 100%;
+  border: none;
+  border-bottom: 1px solid #eee;
+  font-size: 16px;
+  color: #000;
+  font-family: 'Poppins', sans-serif;
+}
+.btn-continue{
+  font-size: 16px;
+  color: #fff;
+  line-height: 1.5;
+  background: #000;
+  display: inline-block;
+  border: none;
+  padding: 10px;
+  max-width: 230px;
+  width: 100%;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+  z-index: 2;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+.btn-continue::before {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  background: #e7487f;
+  width: 0;
+  height: 100%;
+  z-index: -1;
+  transition: all 0.3s ease-in-out;
+}
+.btn-continue:hover::before {
+  width: 100%;
+}
+/* edit account page css end */
+/* dashboard css ends */
+/* category page css starts */
+.category-sec-1{
+
+}
+.category-sec-1 img{
+
+}
+.category-sec-2{
+
+}
+.links-sec-wrap{
+  padding: 20px 0;
+}
+.link-single-row{
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+}
+.link-single-row li{
+
+}
+.link-single-row li a{
+  font-family: 'Poppins', sans-serif;
+  color: #000;
+  font-size: 16px;
+  line-height: 1.2;
+  display: inline-block;
+  margin-left: 40px;
+}
+.link-single-row li a:hover{
+  color: #e7487f;
+}
+.link-single-row li a.link-heading{
+  font-weight: 600;
+  margin: 0;
+  min-width: 120px;
+}
+.breadcrumbs{
+  padding: 15px 0;
+  background: #f4f4f4;
+}
+.breadcrumbs-inner{
+
+}
+.breadcrumbs-inner a{
+  font-family: 'Poppins', sans-serif;
+  color: #000;
+  font-size: 14px;
+  font-weight: 500;
+  display: inline-block;
+  margin-right: 10px;
+}
+.breadcrumbs-inner a::after{
+  content: '';
+  width: 7px;
+  height: 7px;
+  display: inline-block;
+  border-top: 2px solid #6b6b6b;
+  border-right: 2px solid #6b6b6b;
+  transform: rotate(45deg);
+  margin-left: 8px;
+  margin-bottom: 1px;
+}
+.breadcrumbs-inner a:nth-last-child(1)::after{
+  display: none;
+}
+/* best product css starts */
+.best-products-sec{
+  padding-bottom: 50px;
+}
+.best-prod-head-wrap{
+  text-align: center;
+  padding: 25px 0;
+}
+.best-prod-head-wrap h2{
+  font-size: 40px;
+  text-transform: uppercase;
+  font-weight: 600;
+  color: #222;
+  display: inline-block;
+  border-bottom: 2px solid #222;
+}
+.best-prod-head-wrap h6{
+  font-size: 20px;
+  text-transform: uppercase;
+  margin: 10px 0;
+  font-weight: 500;
+  color: #222;
+}
+.best-products-inner{
+
+}
+.single-best-prod{
+  position: relative;
+}
+.single-best-prod .sbp-img-wrap{
+  min-height: 450px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid #d4d4d4;
+  overflow: hidden;
+}
+.sbp-img-wrap img{
+
+}
+.sbp-body{
+  text-align: center;
+}
+.single-best-prod .sp-actions{
+  text-align: center;
+  transform: scale(0);
+  position: absolute;
+  top: 40%;
+  width: 100%;
+  transition: all 0.3s ease-in-out;
+}
+.single-best-prod:hover .sp-actions {
+  transform: scale(1);
+}
+/* best product css ends */
+/* .filter css starts */
+.category-filter-sec{
+
+}
+.filter-wrap{
+  border-top: 1px solid #e5e5e5;
+  border-bottom: 1px solid #e5e5e5;
+  padding: 15px 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.filter-left{
+  
+}
+.filter-left label{
+  font-size: 18px;
+  color: #000;
+  line-height: 1.5;
+}
+.filter-right{
+
+}
+.filter-options{
+
+}
+.filter-options label{
+  font-size: 18px;
+  color: #000;
+  line-height: 1.5;
+  padding-right: 4px;
+  cursor: pointer;
+}
+.filter-options input{
+  height: 0;
+  width: 0;
+}
+.filter-options input:checked + label{
+  color: #e7487f;
+}
+/* .filter css ends */
+.category-products-sec{
+  padding: 50px 0;
+}
+.show-more-wrap{
+  text-align: center;
+  padding: 30px 0;
+}
+.show-more-wrap button{
+}
+/* category page css ends */

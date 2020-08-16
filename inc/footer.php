@@ -1,3 +1,55 @@
+<section class="index-sec-10">
+  <div class="container">
+    <div class="index-newsletter-wrap">
+      <div class="newsletter-head">
+        <i class="fas fa-paper-plane"></i>
+        <h2>Signup to Newsletter</h2>
+        <p>and receive Discount coupon for first shopping</p>
+      </div>
+      <div class="newsletter-form-wrap">
+        <input type="text" placeholder="Enter your Email address">
+        <button>Subscribe</button>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="index-sec-11">
+  <div class="container">
+    <div class="product-heading-wrap">
+      <h2><span>Featured Brands</span></h2>
+    </div>
+    <div class="brands-slider-wrapper">
+      <div class="owl-carousel owl-theme brands-slider">
+        <div class="item brand-item">
+          <a href="#!"><img src="images/brand-1.png" class="img-fluid" alt=""></a>
+        </div>
+        <div class="item brand-item">
+          <a href="#!"><img src="images/brand-2.png" class="img-fluid" alt=""></a>
+        </div>
+        <div class="item brand-item">
+          <a href="#!"><img src="images/brand-3.png" class="img-fluid" alt=""></a>
+        </div>
+        <div class="item brand-item">
+          <a href="#!"><img src="images/brand-4.png" class="img-fluid" alt=""></a>
+        </div>
+        <div class="item brand-item">
+          <a href="#!"><img src="images/brand-5.png" class="img-fluid" alt=""></a>
+        </div>
+        <div class="item brand-item">
+          <a href="#!"><img src="images/brand-6.png" class="img-fluid" alt=""></a>
+        </div>
+        <div class="item brand-item">
+          <a href="#!"><img src="images/brand-7.png" class="img-fluid" alt=""></a>
+        </div>
+        <div class="item brand-item">
+          <a href="#!"><img src="images/brand-8.png" class="img-fluid" alt=""></a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
 <footer>
   <div class="footer-top">
     <div class="container">
