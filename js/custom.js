@@ -106,3 +106,56 @@ $(window).scroll(function () {
     $('.header-bottom').removeClass('sticky-header');
   }
 });
+// product page slider 
+$('.product-detail-slider').owlCarousel({
+  loop: true,
+  margin: 10,
+  nav: true,
+  navText: ["<i class='	fas fa-chevron-left'></i>", "<i class='fas fa-chevron-right'></i>"],
+  dots: false,
+  responsive: {
+    0: {
+      items: 3
+    },
+    1000: {
+      items: 4
+    }
+  }
+})
+//related products slider 
+$('.related-slider').owlCarousel({
+  loop: true,
+  margin: 30,
+  nav: true,
+  navText: ["<i class='	fas fa-chevron-left'></i>", "<i class='fas fa-chevron-right'></i>"],
+  dots: false,
+  responsive: {
+    0: {
+      items: 3
+    },
+    1000: {
+      items: 4
+    }
+  }
+})
+
+// images on product page 
+function changeImage(imgthumb) {
+  var mainImg = document.getElementById("productImage");
+  mainImg.src = imgthumb.src;
+}
+// plus minus qty 
+$('.minus').click(function () {
+  var $input = $(this).parent().find('input');
+  var count = parseInt($input.val()) - 1;
+  count = count < 1 ? 1 : count;
+  $input.val(count);
+  $input.change();
+  return false;
+});
+$('.plus').click(function () {
+  var $input = $(this).parent().find('input');
+  $input.val(parseInt($input.val()) + 1);
+  $input.change();
+  return false;
+});
