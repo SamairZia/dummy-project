@@ -159,3 +159,9 @@ $('.plus').click(function () {
   $input.change();
   return false;
 });
+// hover image initialize 
+$(document).ready(function () {
+  $(".main-img-pd").imagezoomsl({
+    zoomrange: [3, 3]
+  });
+});
