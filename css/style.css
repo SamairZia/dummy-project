@@ -1896,13 +1896,14 @@ header{}
 
 }
 .pd-big-img{
-  background: #f4f4f4;
+  border: 1px solid #cecece;
   display: flex;
   align-items: center;
   justify-content: center;
   min-height: 400px;
   max-height: 400px;
-  /* overflow: hidden; */
+  overflow: hidden;
+  border-radius: 2px;
 }
 .pd-big-img .main-img-pd{
   /* max-width: 340px; */
@@ -1960,7 +1961,7 @@ header{}
 }
 .pd-desc-wrap .pd-name{
   color: #000;
-  font-size: 26px;
+  font-size: 18px;
   font-weight: 700;
   line-height: 1.2;
   margin-bottom: 5px;
@@ -1974,12 +1975,12 @@ header{}
 }
 .pd-review-wrap a{
   display: inline-block;
-  font-size: 16px;
+  font-size: 14px;
   color: #222;
 }
 .pd-brand{
   color: #000;
-  font-size: 18px;
+  font-size: 16px;
   font-weight: 600;
   margin-top: 15px;
 }
@@ -1988,7 +1989,7 @@ header{}
 }
 .pd-old-price, .pd-new-price{
   color: #000;
-  font-size: 18px;
+  font-size: 16px;
   font-weight: 600;
   margin-top: 15px;
 }
@@ -2004,7 +2005,7 @@ header{}
   margin: 20px 0 10px;
 }
 .pd-table-wrap{
-
+  max-width: 500px;
 }
 .pd-table-wrap tr{
 
@@ -2013,15 +2014,19 @@ header{}
   font-size: 14px;
   color: #000;
   padding: 10px;
-  border: 1px solid #eee;
+  border: 1px solid #ececec;
 }
 .pd-table-wrap tr td{
   font-size: 14px;
   color: #000;
-  padding: 20px 10px;
+  padding: 20px 5px;
+}
+.pd-table-wrap tr td:nth-child(1), .pd-table-wrap tr th:nth-child(1){
+  width: 45%;
 }
 .pd-qty{
-
+  display: flex;
+  align-items: center;
 }
 .pd-qty .minus, .pd-qty .plus{
   width: 20px;
@@ -2032,19 +2037,20 @@ header{}
   display: inline-block;
   cursor: pointer;
   user-select: none;
+  height: 23px;
 }
 .pd-qty input{
   width: 30px;
   text-align: center;
   font-size: 14px;
+  height: 23px;
   color: #000;
   border: 1px solid #eee;
-  margin: 0 3px;
 }
 .pd-total{
   border-top: 1px solid #eee;
   border-bottom: 1px solid #eee;
-  padding: 15px 0;
+  padding: 10px 0;
   font-size: 16px;
   color: #000;
   font-weight: 500;
@@ -2058,7 +2064,7 @@ header{}
   border: none;
   background: #e7487f;
   color: #fff;
-  padding: 15px;
+  padding: 10px 0;
   font-size: 16px;
   text-transform: uppercase;
   letter-spacing: 1px;
@@ -2086,7 +2092,7 @@ header{}
   display: flex;
   align-items: center;
   justify-content: space-between;
-  margin-top: 20px;
+  margin-top: 15px;
 }
 .pd-btn-inner button{
   width: 48%;
@@ -2094,7 +2100,7 @@ header{}
   border: 1px solid #000;
   color: #000;
   padding: 5px;
-  font-size: 16px;
+  font-size: 14px;
   text-transform: uppercase;
   font-weight: 500;
   transition: all 0.2s ease-in-out;
@@ -2155,6 +2161,108 @@ header{}
 .pd-tab-content .tab-pane{
 
 }
+/* review in porducts page css */
+.review-tab{
+
+}
+.single-review{
+  border: 1px solid #cecece;
+  margin-bottom: 15px;
+  border-radius: 5px;
+}
+.review-head{
+  padding: 10px;
+  background: #000;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-radius: 5px 5px 0px 0px;
+}
+.review-head .r-name{
+  font-size: 16px;
+  color: #fff;
+  font-weight: 600;
+}
+.review-head .r-time{
+  font-size: 14px;
+  color: #fff;
+}
+.review-body{
+  padding: 10px;
+}
+.review-body p{
+  font-size: 16px;
+  color: #000;
+  margin-bottom: 5px;
+}
+.review-stars-wrap{
+
+}
+.review-stars-wrap i{
+  font-size: 12px;
+  color: #e18787;
+}
+.write-review-wrap{
+  padding: 20px 0;
+}
+.write-review-wrap h4{
+  font-size: 22px;
+  font-weight: 600;
+  margin-bottom: 15px;
+  color: #000;
+}
+.review-input-wrap{
+  margin-bottom: 10px;
+}
+.review-input-wrap label{
+  color: #000;
+  font-size: 16px;
+  font-weight: 600;
+  margin-bottom: 5px;
+}
+.review-input-wrap label span{
+  color: red;
+}
+.review-input-wrap input, .review-input-wrap textarea{
+  width: 100%;
+  border: 1px solid #cecece;
+  border-radius: 3px;
+  padding: 7px ;
+}
+.rating-group{
+  display: inline-flex;
+}
+.write-review-wrap .review-icon {
+  pointer-events: none;
+}
+.write-review-wrap .review-input {
+  position: absolute !important;
+  left: -9999px !important;
+}
+.write-review-wrap .review-input-none {
+  display: none;
+}
+.write-review-wrap .review-label {
+  cursor: pointer;
+  padding: 0 3px;
+  font-size: 18px;
+}
+.write-review-wrap .review-icon {
+  color: #E69500;
+}
+.write-review-wrap .review-input:checked ~ .review-label .review-icon {
+  color: #ddd;
+}
+.write-review-wrap .rating-group:hover .review-label .review-icon {
+  color: #E69500;
+}
+.write-review-wrap .review-input:hover ~ .review-label .review-icon {
+  color: #ddd;
+}
+
+
+
+/* review css ends  */
 .related-items-wrap {
   margin-top: 50px;
 }

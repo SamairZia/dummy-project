@@ -16,7 +16,7 @@
       <div class="col-sm-5 col-md-5 col-lg-5">
         <div class="pd-img-wrap">
           <div class="pd-big-img">
-              <img id="productImage" src="images/bp-img-3.png" class="img-fluid main-img-pd" alt="">
+            <img id="productImage" src="images/bp-img-3.png" class="img-fluid main-img-pd" alt="">
           </div>
           <div class="pg-img-slider">
             <div class="owl-carousel owl-theme product-detail-slider">
@@ -54,7 +54,7 @@
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
             <i class="far fa-star"></i>
-            <a href="#!">10 Rating(s) | Add your Rating</a>
+            <a href="" onclick="$('a[href=\'#review\']').trigger('click').focus(); return false;">10 Rating(s) | Add your Rating</a>
           </div>
           <h5 class="pd-brand">Brand: <a href="#!">Etude House</a></h5>
           <h5 class="pd-brand">Origin: Korea</h5>
@@ -122,7 +122,68 @@
       <div class="tab-pane fade" id="review" role="tabpanel" aria-labelledby="review-tab">
         <div class="review-tab">
           <div class="single-review">
+            <div class="review-head">
+              <h6 class="r-name">Dummy Name</h6>
+              <label class="r-time">21/07/2020</label>
+            </div>
+            <div class="review-body">
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa aperiam laudantium repellendus quibusdam beatae exercitationem ex, quis molestiae quam nulla labore, consectetur pariatur ullam! Explicabo perspiciatis fugit earum voluptates sit.</p>
+              <div class="review-stars-wrap">
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="far fa-star"></i>
+              </div>
+            </div>
+          </div>
+          <div class="single-review">
+            <div class="review-head">
+              <h6 class="r-name">Someone</h6>
+              <label class="r-time">24/08/2020</label>
+            </div>
+            <div class="review-body">
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa aperiam laudantium repellendus quibusdam beatae exercitationem ex, quis molestiae quam nulla labore, consectetur pariatur ullam! Explicabo perspiciatis fugit earum voluptates sit.</p>
+              <div class="review-stars-wrap">
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+              </div>
+            </div>
+          </div>
+          <div class="write-review-wrap">
+            <h4>Write a review</h4>
+            <div class="review-input-wrap">
+              <label>Name: <span>*</span></label>
+              <input type="text" placeholder="Enter your name">
+            </div>
+            <div class="review-input-wrap">
+              <label>Review: <span>*</span></label>
+              <textarea placeholder="Enter your review"></textarea>
+            </div>
+            <div class="rating-group">
+              <input disabled checked class="review-input review-input-none" name="writereview" id="writereview-none" value="0" type="radio">
 
+              <label aria-label="1 star" class="review-label" for="writereview-1"><i class="review-icon fas fa-star"></i></label>
+              <input class="review-input" name="writereview" id="writereview-1" value="1" type="radio">
+
+              <label aria-label="2 stars" class="review-label" for="writereview-2"><i class="review-icon fas fa-star"></i></label>
+              <input class="review-input" name="writereview" id="writereview-2" value="2" type="radio">
+
+              <label aria-label="3 stars" class="review-label" for="writereview-3"><i class="review-icon fas fa-star"></i></label>
+              <input class="review-input" name="writereview" id="writereview-3" value="3" type="radio">
+
+              <label aria-label="4 stars" class="review-label" for="writereview-4"><i class="review-icon fas fa-star"></i></label>
+              <input class="review-input" name="writereview" id="writereview-4" value="4" type="radio">
+
+              <label aria-label="5 stars" class="review-label" for="writereview-5"><i class="review-icon fas fa-star"></i></label>
+              <input class="review-input" name="writereview" id="writereview-5" value="5" type="radio">
+            </div>
+            <div class="review-input-wrap mt-3">
+              <button class=" btn-theme">Submit</button>
+            </div>
           </div>
         </div>
       </div>
