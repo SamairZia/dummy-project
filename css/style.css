@@ -2778,7 +2778,10 @@ header{}
   display: flex;
   align-items: center;
   border-bottom: 1px solid #d9d9d9;
-  padding-bottom: 15px;
+  padding: 15px 0;
+}
+.ck-ship-single:nth-child(1){
+  padding-top: 0;
 }
 .ck-ship-single:nth-last-child(1){
   border-bottom: none;
@@ -2818,6 +2821,61 @@ header{}
 .ck-ship-single span{
   font-size: 14px;
   color: #000;
+}
+.ship-text{
+  font-size: 14px;
+  color: #636363;
+}
+.shipping-method{
+
+}
+.shipping-card{
+  border: 1px solid #d9d9d9;
+  border-radius: 5px 5px 0 0;
+}
+.shipping-card:nth-last-child(1){
+  border-radius: 0 0 5px 5px;
+}
+.shipping-card-header{
+  padding: 15px;
+}
+.shipping-card-header label{
+  display: block;
+}
+.shipping-card-header input{
+
+}
+.shipping-card-header label img{
+  max-width: 110px;
+}
+.shipping-card-header .custom-control-label::after, .shipping-card-header .custom-control-label::before{
+  top: 8px;
+}
+.shipping-card-body{
+  border-top: 1px solid #d9d9d9;
+  background: #fafafa;
+  padding: 15px;
+}
+.shipping-card-body input{
+  width: 100%;
+  font-size: 14px;
+  color: #000;
+  padding: 10px;
+  border-radius: 4px;
+  background: #fff;
+  border: 1px solid #bdbdbd;
+  margin-bottom: 10px;
+}
+.shipping-card-body .paypal-wrapper{
+  text-align: center;
+  padding: 20px
+}
+.paypal-wrapper img{
+
+}
+.paypal-wrapper p{
+  max-width: 450px;
+  margin: 10px auto 0;
 }
 /* checkout left css ends */
 /* checkout page css ends */

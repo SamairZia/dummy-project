@@ -122,7 +122,7 @@
       <div class="next-card">
         <div class="next-card-header">
           <h4 class="collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-          <span>Use Store Credit (Available ￦2,000)</span>
+            <span>Use Store Credit (Available ￦2,000)</span>
             <i class="fas fa-caret-down"></i>
           </h4>
         </div>
@@ -139,7 +139,7 @@
       <div class="next-card">
         <div class="next-card-header">
           <h4 class="collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-          <span>Estimate Shipping & Taxes</span>
+            <span>Estimate Shipping & Taxes</span>
             <i class="fas fa-caret-down"></i>
           </h4>
         </div>
@@ -174,6 +174,16 @@
                 <input type="text" placeholder="Post Code">
               </div>
             </div>
+            <div class="next-input-group">
+              <label>Shipping Method <span>*</span></label>
+              <div class="next-input-wrap">
+                <select>
+                  <option>--- None ---</option>
+                  <option>EMS</option>
+                  <option>DHL</option>
+                </select>
+              </div>
+            </div>
             <button class="get-quote-btn">Get Quotes</button>
           </form>
         </div>
@@ -181,7 +191,7 @@
       <div class="next-card">
         <div class="next-card-header">
           <h4 class="collapsed" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-          <span>Use Gift Certificate</span>
+            <span>Use Gift Certificate</span>
             <i class="fas fa-caret-down"></i>
           </h4>
         </div>

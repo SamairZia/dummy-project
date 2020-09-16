@@ -31,7 +31,7 @@
 
               <a class="ck-tab-link" id="nav-shipping-tab" data-toggle="tab" href="#nav-shipping" role="tab" aria-controls="nav-shipping" aria-selected="false">Shipping</a>
 
-              <!-- <a class="ck-tab-link" id="nav-payment-tab" data-toggle="tab" href="#nav-payment" role="tab" aria-controls="nav-payment" aria-selected="false">Payment</a> -->
+              <a class="ck-tab-link" id="nav-payment-tab" data-toggle="tab" href="#nav-payment" role="tab" aria-controls="nav-payment" aria-selected="false">Payment</a>
 
             </div>
           </nav>
@@ -137,7 +137,85 @@
               </div>
             </div>
             <div class="tab-pane fade" id="nav-payment" role="tabpanel" aria-labelledby="nav-payment-tab">
-              ...c
+              <div class="tab-content-inner-wrap">
+                <div class="ck-shipping-wrapper">
+                  <div class="ck-ship-single">
+                    <h6>Contact</h6>
+                    <div class="sk-ship-single-inner">
+                      <p>someone@email.com</p>
+                      <a href="#!">Change</a>
+                    </div>
+                  </div>
+                  <div class="ck-ship-single">
+                    <h6>Ship to</h6>
+                    <div class="sk-ship-single-inner">
+                      <p>Somewhere, second floor, New York, USA</p>
+                      <a href="#!">Change</a>
+                    </div>
+                  </div>
+                  <div class="ck-ship-single">
+                    <h6>Method</h6>
+                    <div class="sk-ship-single-inner">
+                      <p>Free U.S. Standard Shipping · Free</p>
+                    </div>
+                  </div>
+                </div>
+                <h5 class="ship-heading">Shipping method</h5>
+                <p class="ship-text">All transactions are secure and encrypted.</p>
+
+                <div class="accordion shipping-method" id="shippingMethod">
+                  <div class="shipping-card">
+                    <div class="shipping-card-header">
+                      <div class="custom-control custom-radio">
+                        <input data-toggle="collapse" data-target="#eximbayCollapse" type="radio" id="eximbay" name="shipping" class="custom-control-input" />
+                        <label class="custom-control-label" for="eximbay"><img src="images/payment-2.jpg" alt=""></label>
+                      </div>
+                    </div>
+
+                    <div id="eximbayCollapse" class="collapse" aria-labelledby="eximbay" data-parent="#shippingMethod">
+                      <div class="shipping-card-body">
+                        <div class="row">
+                          <div class="col-12">
+                            <input type="text" placeholder="Card Number">
+                          </div>
+                          <div class="col-12">
+                            <input type="text" placeholder="Name on card">
+                          </div>
+                          <div class="col-6">
+                            <input type="text" placeholder="Expiration date (MM / YY)">
+                          </div>
+                          <div class="col-6">
+                            <input type="text" placeholder="Security Code">
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="shipping-card">
+                    <div class="shipping-card-header">
+                      <div class="custom-control custom-radio">
+                        <input data-toggle="collapse" data-target="#paypalCollapse" type="radio" id="paypal" name="shipping" class="custom-control-input" />
+                        <label class="custom-control-label" for="paypal"><img src="images/payment-1.jpg" alt=""></label>
+                      </div>
+                    </div>
+                    <div id="paypalCollapse" class="collapse" aria-labelledby="paypal" data-parent="#shippingMethod">
+                      <div class="shipping-card-body">
+                        <div class="paypal-wrapper">
+                          <img src="images/card-placeholder.png" alt="">
+                          <p>After clicking “Complete order”, you will be redirected to PayPal to complete your purchase securely.</p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                </div>
+
+                <div class="cktab-btn-wrap">
+                  <a href="#!" class="return-cart"><i class="fas fa-angle-left"></i> Return to Shipping</a>
+                  <a href="#!" class="cktab-continue-btn">Complete Order</a>
+                </div>
+
+              </div>
             </div>
           </div>
         </div>
