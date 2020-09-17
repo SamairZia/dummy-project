@@ -160,8 +160,8 @@
                     </div>
                   </div>
                 </div>
-                <h5 class="ship-heading">Shipping method</h5>
-                <p class="ship-text">All transactions are secure and encrypted.</p>
+                <h5 class="ship-heading mb-1">Payment method</h5>
+                <p class="ship-text mb-3">All transactions are secure and encrypted.</p>
 
                 <div class="accordion shipping-method" id="shippingMethod">
                   <div class="shipping-card">

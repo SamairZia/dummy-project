@@ -1,34 +1,6 @@
 html {
   scroll-behavior: smooth;
 }
-/* @font-face {
-  font-family: FuturaPTLight;
-  src: url(../fonts/FuturaPTLight.otf);
-}
-@font-face {
-  font-family: FuturaPTBook;
-  src: url(../fonts/FuturaPTBook.otf);
-}
-@font-face {
-  font-family: FuturaPTMedium;
-  src: url(../fonts/FuturaPTMedium.otf);
-}
-@font-face {
-  font-family: FuturaPTDemi;
-  src: url(../fonts/FuturaPTDemi.otf);
-}
-@font-face {
-  font-family: FuturaPTHeavy;
-  src: url(../fonts/FuturaPTHeavy.otf);
-}
-@font-face {
-  font-family: FuturaPTBold;
-  src: url(../fonts/FuturaPTBold.otf);
-}
-@font-face {
-  font-family: FuturaPTExtraBold;
-  src: url(../fonts/FuturaPTExtraBold.otf);
-} */
 body {
   font-family: 'Lato', sans-serif;
   overflow-x: hidden;
@@ -85,6 +57,9 @@ a:hover,a:focus {
 }
 .btn-theme:hover::before {
   height: 100%;
+}
+.theme-color{
+  color: #ef4a7f;
 }
 header{}
 .header-top{
